@@ -1,0 +1,14 @@
+Penerapan page rank dalam kehidupan manusia sehari-hari:
+
+Algoritma PageRank umumnya digunakan dalam mesin pencari seperti Google, Bing, ataupun Yahoo.
+Namun, seiring perkembangan jaman, pengunaan algoritma PageRank semakin luas sehingga dapat menyelesaikan beberapa masalah
+baru seperti:
+
+1.  Deteksi penipuan (Fraud Analysis)
+PageRank bisa digunakan untuk mencari anomali atau perilaku yang mencurigakan di dalam jaringan. Dengan menganalisis hubungan dan
+pola tautan antara entitas, seperti transaksi keuangan, jejaring sosial online,
+atau jaringan komunikasi, algoritma bisa mengecek node atau pola yang mencurigakan dan beda dari biasanya.
+2.  Rekomendasi produk dan konten
+PageRank dapat digunakan untuk mengembangkan sistem rekomendasi produk dan konten yang lebih akurat.
+Dengan menganalisis jaringan produk atau konten yang terkait,
+algoritma dapat mengidentifikasi produk atau konten yang kemungkinan besar akan menarik bagi pengguna.
